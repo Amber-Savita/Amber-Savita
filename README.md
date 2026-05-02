@@ -1,9 +1,8 @@
-# Hi there, I'm [Aapka Naam]! 👋
+# Hi there, I'm Amber! 👋
 
 ### 🚀 About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Blockchain Development
+
 
 ### 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
