@@ -1,8 +1,4 @@
 
-
-
-
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=750&lines=I'm+AMBER+SAVITA;Aspiring+BLOCKCHAIN+ARCHITECT;C%2B%2B+Performance+Engineer;Low-Latency+%26+Decentralized+Systems" alt="Typing Animation" />
 
