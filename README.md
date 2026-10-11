@@ -1,16 +1,7 @@
 
 <div align="center">
-
-
-
-
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=750&lines=I'm+AMBER+SAVITA;Aspiring+BLOCKCHAIN+ARCHITECT;C%2B%2B+Performance+Engineer;Low-Latency+%26+Decentralized+Systems" alt="Typing Animation" />
-
-
-
-  
-
   <p align="center">
     <b>Blockchain Researcher  | Building Scalable Decentralized Systems & High-Performance Architectures</b>
   </p>
@@ -20,8 +11,7 @@
     <a href="https://leetcode.com/u/iamber_00"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   </p>
 </div>
-
----
+----
 
 ## 🛠️ Performance-Optimized Tech Stack
 
